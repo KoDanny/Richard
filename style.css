@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  font-weight: normal;
+  font-size: 16px;
+
+  color: #0F141E;
+  background: #F1F1F1;
+}
+
+.container {
+  max-width: 600px;
+  margin: auto;
+  padding: 15px;
+}
+
+.info {
+  margin-bottom: 25px;
+  padding: 0 5%;
+}
+
+.photo {
+  border: 1px solid gray;
+  border-radius: 10px;
+  width: 200px;
+  margin: 15px 30%;
+  box-shadow: 4px 4px 14px rgba(0, 0, 0, 0.25);
+}
+
+.info-text p {
+  font-style: italic;
+  font-weight: bold;
+  color: #89858f;
+  margin: 0;
+}
+
+.info-text h1 {
+  font-size: 30px;
+  margin-bottom: 20px;
+  padding: 0 38%;
+  
+}
+
+.card {
+  border: 1px solid darkgrey;
+  border-radius: 10px;
+
+  padding: 15px 40px;
+  margin-bottom: 10px;
+}
+
+.card h3 {
+  margin-bottom: 15px;
+  text-decoration: underline;
+}
+
+.table {
+  width: 100%;
+}
+
+.table tr {
+  text-align: left;
+}
+
+.table td {
+  width: 50%;
+}
+
+.list {
+  list-style: none;
+}
+
+.bg-salmon {
+  background: lightsalmon;
+}
+
+.bg-lightgreen {
+  background: lightgreen;
+}
+
+.bg-lightblue {
+  background: lightblue;
+}

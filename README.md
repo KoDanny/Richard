@@ -1,2 +1,1 @@
-# Мой пёс 
-[Ричард]([https://skillbox.ru/media/](https://kodanny.github.io/Richard/))
+# Мой пёс [Ричард](https://kodanny.github.io/Richard/)
